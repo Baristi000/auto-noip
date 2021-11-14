@@ -1,0 +1,8 @@
+# python env file
+/env
+
+# cache
+**/__pycache__
+
+# OSX
+**/.DS_Store
